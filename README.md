@@ -29,7 +29,7 @@
 |------|------|
 | API URL | 如 `https://api.openai.com/v1/chat/completions` |
 | API Key | `sk-...` |
-| 模型名称 | 如 `gpt-3.5-turbo` |
+| 模型名称 | 如 `moonshotai/Kimi-K2-Instruct-0905` |
 
 不填则仅使用 Google 翻译。
 
